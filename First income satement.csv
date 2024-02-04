@@ -1,0 +1,31 @@
+﻿Account,Country,Segment,Amount
+Sales,Portugal,Offline,1000
+Cost of Sales,Portugal,Offline,-200
+Gross profit,Portugal,Offline,800
+Fixed Industrial Expenses,Portugal,Offline,-500
+SG&A,Portugal,Offline,-100
+EBIT,Portugal,Offline,200
+Sales,Portugal,Online,2000
+Cost of Sales,Portugal,Online,-500
+Gross profit,Portugal,Online,1500
+Fixed Industrial Expenses,Portugal,Online,-1000
+SG&A,Portugal,Online,-600
+EBIT,Portugal,Online,-100
+Sales,Spain,Offline,900
+Cost of Sales,Spain,Offline,-300
+Gross profit,Spain,Offline,600
+Fixed Industrial Expenses,Spain,Offline,-100
+SG&A,Spain,Offline,-50
+EBIT,Spain,Offline,450
+Sales,France,Offline,750
+Cost of Sales,France,Offline,-150
+Gross profit,France,Offline,600
+Fixed Industrial Expenses,France,Offline,-50
+SG&A,France,Offline,-100
+EBIT,France,Offline,450
+Sales,Bulgaria,Offline,800
+Cost of Sales,Bulgaria,Offline,-300
+Gross profit,Bulgaria,Offline,500
+Fixed Industrial Expenses,Bulgaria,Offline,-300
+SG&A,Bulgaria,Offline,-30
+EBIT,Bulgaria,Offline,170
